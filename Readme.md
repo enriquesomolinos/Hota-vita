@@ -25,30 +25,20 @@ Original files can be downloaded in serveral sites, for example:
 
 #Button configuration
 
-To control your character, you may use either set of cursor keys.
-        Moreover, here are extra keys available:
 
-        Z                      shoot, keep down in order to run
-        X                      use your whip
-        C                      jump
-        F5                     quicksave (1 slot)
-        F7                     quickload
-        ESC                    leave game, or skip animation
+        Arrow Keys:     move Alien
 
+        Left stick:     move Alien
 
-Arrow Keys:     move Alien
+        X:              shoot, keep down in order to run
 
-Left stick:     move Alien
+        O :             jump
 
-X:              shoot, keep down in order to run
+        □ :             use your whip
 
-O :             jump
+        Start:          exit
 
-□ :             use your whip
-
-Start:          exit
-
-Select:         acelerate motion
+        Select:         acelerate motion
 
 
 # How to compile
